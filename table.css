@@ -1,0 +1,45 @@
+table, th, td {
+    border: 3px solid rgb(224, 75, 192);
+    border-collapse: collapse;
+   
+  }
+  body{
+     text-align: center;
+  }
+  table{
+      margin-left: 30%;
+      width: 45%;
+      
+  }
+  td{
+      border-right: 3px solid rgb(224, 75, 192);
+      border-left: 3px solid rgb(224, 75, 192);
+      border-top: 3px solid rgb(224, 75, 192);
+      border-bottom: 3px solid rgb(224, 75, 192);
+      
+  }
+  button{
+      padding: 17px 10px;
+      width: 30%;
+      border: none;
+      border-radius: 3px;
+      color: white;
+      background-color:rgb(190, 15, 176);
+      margin-left: 8%;
+      text-decoration: none;
+
+  }
+  h2{
+      color:blueviolet;
+      text-align: center;
+      border-width:1px; 
+      align-items: center;
+  }
+  body{
+      background-color: lightcyan;
+  }
+  #back{
+      text-decoration: none;
+      color: white;
+      font-size: medium;
+  }
